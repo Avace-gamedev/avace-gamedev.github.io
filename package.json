@@ -1,7 +1,7 @@
 {
-  "name": "yetanothergamedeveloper.github.io",
+  "name": "avace-gamedev.github.io",
   "version": "0.1.0",
-  "homepage": "https://yetanothergamedeveloper.github.io/",
+  "homepage": "https://avace-gamedev.github.io/",
   "private": true,
   "dependencies": {
     "anix": "^0.3.3",
