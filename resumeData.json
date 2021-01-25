@@ -1,24 +1,19 @@
 {
   "main": {
-    "name": "YAGD",
+    "name": "Avace",
     "real_name": "Ismail Bennani",
-    "description": "YetAnotherGameDeveloper\nand computer scientist",
+    "description": "Game developer and computer scientist",
     "image": "profilepic.jpg",
     "bio": "I am always up for a fun challenge.",
-    "email": "yagd.contact@gmail.com",
-    "github": "https://github.com/yetanothergamedeveloper",
+    "email": "avace.contact@gmail.com",
+    "github": "https://github.com/avace-gamedev",
     "itch": "https://yagd.itch.io",
     "city": "Paris",
     "resume": "http://ismailbennani.me",
     "social": [
       {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/lbismail",
-        "className": "fa fa-linkedin"
-      },
-      {
         "name": "github",
-        "url": "https://github.com/yetanothergamedeveloper",
+        "url": "https://github.com/avace-gamedev",
         "className": "fa fa-github"
       },
       {
@@ -34,13 +29,13 @@
         "title": "BasicPlatformer",
         "category": "(ongoing) The most basic platformer you could think of",
         "image": "platformer.jpg",
-        "url": "https://yetanothergamedeveloper.github.io/BasicPlatformer/"
+        "url": "https://yagd.itch.io/basicplatformer"
       },
       {
         "title": "Top-down Multiplayer",
         "category": "(ongoing) A client-server implementation of a top-down game in C++ and HaxeFlixel",
         "image": "2dengine.jpg",
-        "url": "https://github.com/yetanothergamedeveloper/VeryOriginalGame2000"
+        "url": "https://github.com/avace-gamedev/VeryOriginalGame2000"
       }
     ]
   }
