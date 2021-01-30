@@ -7,7 +7,7 @@
     "bio": "I am always up for a fun challenge.",
     "email": "avace.contact@gmail.com",
     "github": "https://github.com/avace-gamedev",
-    "itch": "https://yagd.itch.io",
+    "itch": "https://avace-gamedev.itch.io",
     "city": "Paris",
     "resume": "http://ismailbennani.me",
     "social": [
@@ -18,7 +18,7 @@
       },
       {
         "name": "itch-io",
-        "url": "https://yagd.itch.io/",
+        "url": "https://avace-gamedev.itch.io/",
         "className": "fab fa-itch-io"
       }
     ]
@@ -26,14 +26,20 @@
   "portfolio": {
     "projects": [
       {
-        "title": "BasicPlatformer",
-        "category": "(ongoing) The most basic platformer you could think of",
-        "image": "platformer.jpg",
-        "url": "https://yagd.itch.io/basicplatformer"
+        "title": "Antattack",
+        "category": "(BTP JAM #3) (unity)\nA tower defense game where YOU control your towers.\nI was the main programmer in a team of 3, we developed the game from scratch in a week.",
+        "image": "antattack.jpg",
+        "url": "https://avace-gamedev.itch.io/antattack"
       },
       {
-        "title": "Top-down Multiplayer",
-        "category": "(ongoing) A client-server implementation of a top-down game in C++ and HaxeFlixel",
+        "title": "BasicPlatformer",
+        "category": "(ongoing) (Haxe/Flixel)\nThe most basic platformer you could think of.\nThis is the first game I actually released.",
+        "image": "platformer.jpg",
+        "url": "https://avace-gamedev.itch.io/basicplatformer"
+      },
+      {
+        "title": "2D Multiplayer",
+        "category": "(prototype) (C++) (Haxe/Flixel)\nA client-server implementation.\nI wanted to experiment various techniques to deal with lag in high paced mutliplayer games.",
         "image": "2dengine.jpg",
         "url": "https://github.com/avace-gamedev/VeryOriginalGame2000"
       }
