@@ -24,16 +24,23 @@
     ]
   },
   "portfolio": {
+    "title": "Check out some of my previous projects.",
     "projects": [
+      {
+        "title": "Lascivious",
+        "category": "(Brackey's JAM 2021.1) (unity)\nA twin-stick shooter game where you control Dupic, the evil brother of Cupid, who is trying to escape his brother's world full of love and happiness.",
+        "image": "lascivious.png",
+        "url": "https://avace-gamedev.itch.io/lascivious"
+      },
       {
         "title": "Antattack",
         "category": "(BTP JAM #3) (unity)\nA tower defense game where YOU control your towers.\nI was the main programmer in a team of 3, we developed the game from scratch in a week.",
-        "image": "antattack.jpg",
+        "image": "antattack.png",
         "url": "https://avace-gamedev.itch.io/antattack"
       },
       {
         "title": "BasicPlatformer",
-        "category": "(ongoing) (Haxe/Flixel)\nThe most basic platformer you could think of.\nThis is the first game I actually released.",
+        "category": "(Haxe/Flixel)\nThe most basic platformer you could think of.\nThis is the first game I actually released.",
         "image": "platformer.jpg",
         "url": "https://avace-gamedev.itch.io/basicplatformer"
       },

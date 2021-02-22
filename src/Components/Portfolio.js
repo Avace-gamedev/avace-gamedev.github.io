@@ -3,6 +3,7 @@ import React, { Component } from "react";
 class Portfolio extends Component {
   render() {
     if (this.props.data) {
+      var title = this.props.data.title;
       var projects = this.props.data.projects.map(function (projects) {
         var projectImage = "images/portfolio/" + projects.image;
 
@@ -28,7 +29,7 @@ class Portfolio extends Component {
       <section id="portfolio">
         <div className="row">
           <div className="twelve columns collapsed">
-            <h1>Check Out Some of My Ongoing Projects.</h1>
+            <h1>{title}</h1>
 
             <div
               id="portfolio-wrapper"
