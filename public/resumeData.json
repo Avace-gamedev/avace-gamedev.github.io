@@ -24,8 +24,14 @@
     ]
   },
   "portfolio": {
-    "title": "Check out some of my previous projects.",
+    "title": "Check out some of my projects.",
     "projects": [
+      {
+        "title": "Stella Devita",
+        "category": "(Minijam #75) (unity)\nPlay as a cute ship and avoid crashing on planets in this endless runner game.\nThis has been made in 3 days by 2 people, with mobile platforms in mind.",
+        "image": "stelladevita.png",
+        "url": "https://avace-gamedev.itch.io/stella-devita"
+      },
       {
         "title": "Lascivious",
         "category": "(Brackey's JAM 2021.1) (unity)\nA twin-stick shooter game where you control Dupic, the evil brother of Cupid, who is trying to escape his brother's world full of love and happiness.",
