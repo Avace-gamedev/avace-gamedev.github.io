@@ -32,8 +32,7 @@ body {
 
 header {
   position: relative;
-  height: 800px;
-  min-height: 500px;
+  height: 330px;
   width: 100%;
 
   text-align: center;
@@ -49,10 +48,10 @@ header:before {
 }
 header .banner {
   display: inline-block;
-  vertical-align: middle;
+  vertical-align: bottom;
   margin: 0 auto;
   width: 85%;
-  padding-bottom: 30px;
+  padding-bottom: 10px;
   text-align: center;
 }
 
@@ -477,7 +476,7 @@ ul#nav li.current a {
   margin-bottom: 36px;
 }
 .portfolio-item .item-wrap {
-  background: #fff;
+  /* background: #fff; */
   overflow: hidden;
   position: relative;
 
@@ -1129,7 +1128,7 @@ footer .social-links li:first-child {
 }
 
 .social .btn:first-child {
-  margin-right: 30px;
+  margin-right: 10px;
 }
 .social .btn {
   padding-left: 30px;
